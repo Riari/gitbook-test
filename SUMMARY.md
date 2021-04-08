@@ -1,5 +1,8 @@
 # Table of contents
 
 * [Initial page](README.md)
-* [Test](test.md)
+
+## Group \#1
+
+* [Test](group-1/test.md)
 
